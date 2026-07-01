@@ -108,8 +108,7 @@ df.head(10)
 # 2. Tratar quantidade nula (preencher com a mediana geral)
 
 
-# 3. Tratar valor_unitario nulo: Criar tabela intermediária de medianas por produto,
-# mapear esses valores para cada linha usando .map() e preencher os nulos usando .fillna()
+# 3. Tratar valor_unitario nulo (preencher com a mediana por produto usando groupby + transform)
 
 
 # 4. Tratar desconto nulo (preencher com 0.0)
