@@ -20,16 +20,9 @@ git clone https://github.com/jeronimo-jrsilva/aula-pandas-senac.git
 ```
 *(Nota: Substitua pelo link do repositório caso o professor altere o endereço)*
 
-### 2. Abrir o Notebook no VS Code
+### 2. Criar seu Notebook ou Script
 1. Abra o **VS Code**.
 2. Abra a pasta clonada (`File` -> `Open Folder...`).
-3. Dê dois cliques no arquivo **`pratica_pandas_limpeza.ipynb`**.
-
-### 3. Configurar e Executar o Kernel Python
-1. No canto superior direito da tela do notebook, clique em **"Select Kernel"** (ou "Selecionar Kernel").
-2. Escolha **"Python Environments..."** e selecione o interpretador Python instalado em sua máquina.
-3. No **Passo 0**, execute a célula:
-   - Digite sua data de nascimento (formato `DDMMAAAA`) quando solicitado.
-   - Pressione `Enter`.
-   - *(Opcional)*: Se preferir rodar sem caixas de input interativas, basta descomentar a linha correspondente no código para usar uma data fixa.
-4. Complete os desafios dos **Passos 2 ao 6** implementando as resoluções nas células correspondentes.
+3. Crie um notebook novo (ex: `pratica.ipynb`) ou script (`pratica.py`).
+4. Abra o arquivo **`pratica_pandas_limpeza.md`** ao lado para acompanhar os enunciados e copie os blocos de código iniciais (Passo 0 e Passo 1) para rodar e gerar seu dataset exclusivo.
+5. Complete os desafios dos **Passos 2 ao 6** implementando as resoluções propostas.
